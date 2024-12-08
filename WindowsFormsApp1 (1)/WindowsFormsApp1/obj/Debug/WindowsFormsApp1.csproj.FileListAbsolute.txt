@@ -1,0 +1,102 @@
+D:\DOAN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\DOAN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\DOAN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\DOAN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\DOAN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\DOAN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\DOAN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\DOAN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\DOAN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\DOAN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\DOAN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\DOAN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\DOAN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+D:\DOAN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+D:\DOAN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+D:\DOAN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+D:\DOAN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.nhanVienKho.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.thucPhamchucNang.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GiamDauHaSot.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.matMuiMieng.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.nhanVienThuoc.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NhapKho.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XuatKho.resources
+D:\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.nhanVienKho.resources
+D:\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.thucPhamchucNang.resources
+D:\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GiamDauHaSot.resources
+D:\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.matMuiMieng.resources
+D:\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NhapKho.resources
+D:\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XuatKho.resources
+D:\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.nhanVienThuoc.resources
+D:\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Downloads\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Administrator\Downloads\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Downloads\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Downloads\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Administrator\Downloads\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.nhanVienKho.resources
+C:\Users\Administrator\Downloads\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.thucPhamchucNang.resources
+C:\Users\Administrator\Downloads\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GiamDauHaSot.resources
+C:\Users\Administrator\Downloads\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.matMuiMieng.resources
+C:\Users\Administrator\Downloads\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NhapKho.resources
+C:\Users\Administrator\Downloads\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XuatKho.resources
+C:\Users\Administrator\Downloads\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.nhanVienThuoc.resources
+C:\Users\Administrator\Downloads\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Downloads\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Đồ Án\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Đồ Án\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Đồ Án\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Đồ Án\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Đồ Án\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Đồ Án\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.nhanVienKho.resources
+D:\Đồ Án\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.thucPhamchucNang.resources
+D:\Đồ Án\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GiamDauHaSot.resources
+D:\Đồ Án\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.matMuiMieng.resources
+D:\Đồ Án\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NhapKho.resources
+D:\Đồ Án\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XuatKho.resources
+D:\Đồ Án\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.nhanVienThuoc.resources
+D:\Đồ Án\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Đồ Án\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Đồ Án\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Đồ Án\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Đồ Án\Đồ Án\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Hp\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Hp\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Hp\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Hp\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.nhanVienKho.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.thucPhamchucNang.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GiamDauHaSot.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.matMuiMieng.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NhapKho.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XuatKho.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.nhanVienThuoc.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Hp\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Hp\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Hp\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
